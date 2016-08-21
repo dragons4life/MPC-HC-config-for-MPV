@@ -7,7 +7,7 @@ NOTE: You can pick one of the two methods, however choose [1] with [1] and choos
 ```
 Winkey + R
 
-%appdata%
+Type %appdata% and press enter
 
 Look for a folder named "mpv", if there isn't one create one.
 
@@ -25,7 +25,7 @@ https://github.com/rossy/mpv-open-file-dialog (Windows only) (Open window dialog
 ###How to install scripts on windows [1]:
 ```
 Winkey + R
-%appdata%
+Type %appdata% and press enter
 Look for a folder named "mpv", if there isn't one create one.
 inside that folder create another folder named "scripts", drop the .lua script file(s) there.
 ```
