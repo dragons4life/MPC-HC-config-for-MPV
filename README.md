@@ -3,7 +3,7 @@ MPC-HC Keybinds for MPV
 
 NOTE: You can pick one of the two methods, however choose [1] with [1] and choose [2] with [2]
 
-##How to install [1]:
+###How to install [1]:
 ```
 Winkey + R
 
