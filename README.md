@@ -1,7 +1,7 @@
 # MPC-HC-config-for-MPV
 MPC-HC Keybinds for MPV
 
-NOTE: Choose [1] with [1] and [2] with [2]
+##### NOTE: Choose [1] with [1] and [2] with [2]
 
 How to install [1]:
 ```
