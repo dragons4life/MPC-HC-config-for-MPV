@@ -16,7 +16,8 @@ Make a portable_config folder on your mpv.exe directory
 Put the downloaded mpv.conf and input.conf there.
 ```
 
-# Can Skip this if you want.
+#Can Skip this if you want.
+
 #Scripts you might want
 https://github.com/rossy/mpv-open-file-dialog (Windows only) (Open window dialog {Keybind: Ctrl+o})
 
