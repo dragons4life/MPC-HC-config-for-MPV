@@ -19,6 +19,8 @@ Put the downloaded mpv.conf and input.conf there.
 ### Script(s) you might want
 https://github.com/rossy/mpv-open-file-dialog (Windows only) (Open window dialog {Keybind: Ctrl+o})
 
+List of scripts: https://github.com/mpv-player/mpv/wiki/User-Scripts
+
 How to install scripts on windows [1]:
 ```
 Winkey + R
